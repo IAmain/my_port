@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my_port/static/css/main.31c5860e.css",
+    "main.js": "/my_port/static/js/main.50f9f5ac.js",
+    "static/media/NTR-Regular.ttf": "/my_port/static/media/NTR-Regular.96839eb7b68e4482d73d.ttf",
+    "index.html": "/my_port/index.html",
+    "main.31c5860e.css.map": "/my_port/static/css/main.31c5860e.css.map",
+    "main.50f9f5ac.js.map": "/my_port/static/js/main.50f9f5ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c5860e.css",
+    "static/js/main.50f9f5ac.js"
+  ]
+}
